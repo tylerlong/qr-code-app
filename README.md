@@ -1,2 +1,3 @@
-# qr-code-generator-app
+# QR Code Generator
+
 QR Code Generator, generate QR codes.
