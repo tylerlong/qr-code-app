@@ -1,3 +1,3 @@
-# QR Code Generator
+# QR Code
 
-QR Code Generator, generate QR codes.
+Generate QR codes.
